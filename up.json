@@ -1,0 +1,8 @@
+{
+  "name": "pythondemo",
+  "profile": "pythondemo",
+  "regions": ["us-east-1"],
+  "proxy": {
+    "command": "python3 app.py"
+  }
+}
